@@ -1,4 +1,4 @@
 # ahmad.first-project
 This is my first Git Repository
 <br>
-Author-Muhammad Ahmad (im the author)
+Author-Muhammad Ahmad 
